@@ -14,6 +14,7 @@
 		84D254D02C5148A000B9117B /* Tourism_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D254CF2C5148A000B9117B /* Tourism_AppTests.swift */; };
 		84D254DA2C5148A000B9117B /* Tourism_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D254D92C5148A000B9117B /* Tourism_AppUITests.swift */; };
 		84D254DC2C5148A000B9117B /* Tourism_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D254DB2C5148A000B9117B /* Tourism_AppUITestsLaunchTests.swift */; };
+		84D254EA2C5177BE00B9117B /* Tourisms.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84D254E92C5177BE00B9117B /* Tourisms.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		84D254D52C5148A000B9117B /* Tourism AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tourism AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84D254D92C5148A000B9117B /* Tourism_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tourism_AppUITests.swift; sourceTree = "<group>"; };
 		84D254DB2C5148A000B9117B /* Tourism_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tourism_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		84D254E92C5177BE00B9117B /* Tourisms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tourisms.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				84D254C02C51489E00B9117B /* ContentView.swift */,
 				84D254C22C5148A000B9117B /* Assets.xcassets */,
 				84D254C42C5148A000B9117B /* Preview Content */,
+				84D254E92C5177BE00B9117B /* Tourisms.swift */,
 			);
 			path = "Tourism App";
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84D254EA2C5177BE00B9117B /* Tourisms.swift in Sources */,
 				84D254C12C51489E00B9117B /* ContentView.swift in Sources */,
 				84D254BF2C51489E00B9117B /* Tourism_AppApp.swift in Sources */,
 			);
